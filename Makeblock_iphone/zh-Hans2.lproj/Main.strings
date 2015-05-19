@@ -1,0 +1,18 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "8r0-cl-gOm"; */
+"8r0-cl-gOm.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ZYf-NS-enH"; */
+"ZYf-NS-enH.text" = "Label";
+
+/* Class = "IBUILabel"; text = "News"; ObjectID = "boL-l6-T8U"; */
+"boL-l6-T8U.text" = "News";
+
+/* Class = "IBUINavigationItem"; title = "Makeblock"; ObjectID = "qLh-E8-H4M"; */
+"qLh-E8-H4M.title" = "Makeblock";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "rYk-Nv-pyK"; */
+"rYk-Nv-pyK.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Project"; ObjectID = "yaP-Yc-WBO"; */
+"yaP-Yc-WBO.title" = "Project";
